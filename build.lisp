@@ -7,7 +7,7 @@
 (in-package "DOCX-PDF")
 (setf *independent-exe* t)
 (lw:deliver 'start
-    "c:\\Users\\cselovszkid\\common-lisp\\docx-pdf\\docx-pdf_v0.01.exe"
+    "c:\\Users\\cselovszkid\\common-lisp\\docx-pdf\\docx-pdf_v0.02.exe"
     5
     :interface :capi
     :console :io
